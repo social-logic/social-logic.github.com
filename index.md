@@ -21,5 +21,5 @@ Joshua CHOI Kui Wang, Founder & Lead Developer
 > Runs entirely in the browser, making it free and incredibly easy for local nonprofits to deploy without needing backend servers or IT budgets.
 
 ## Goals
-April
+May
 > Create 3 impactful projects on resource distributions for those in need
